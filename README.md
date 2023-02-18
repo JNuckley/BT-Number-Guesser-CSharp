@@ -40,9 +40,8 @@ namespace NumberGuesser
             Console.WriteLine("{0}: Version {1} by {2}", appName, appVersion,appAuthor);````
   `````
 
-### built in methods and objects used
 
-### methods
+### methods and objects used
 
 - ToUpper() - this does what you would expect!
 - ReadLine() - to read user input
