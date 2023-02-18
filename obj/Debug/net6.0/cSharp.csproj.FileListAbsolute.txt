@@ -1,0 +1,15 @@
+/Users/jnuckley/Projects/cSharp/obj/Debug/net6.0/cSharp.csproj.AssemblyReference.cache
+/Users/jnuckley/Projects/cSharp/obj/Debug/net6.0/cSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jnuckley/Projects/cSharp/obj/Debug/net6.0/cSharp.AssemblyInfoInputs.cache
+/Users/jnuckley/Projects/cSharp/obj/Debug/net6.0/cSharp.AssemblyInfo.cs
+/Users/jnuckley/Projects/cSharp/obj/Debug/net6.0/cSharp.csproj.CoreCompileInputs.cache
+/Users/jnuckley/Projects/cSharp/bin/Debug/net6.0/cSharp
+/Users/jnuckley/Projects/cSharp/bin/Debug/net6.0/cSharp.deps.json
+/Users/jnuckley/Projects/cSharp/bin/Debug/net6.0/cSharp.runtimeconfig.json
+/Users/jnuckley/Projects/cSharp/bin/Debug/net6.0/cSharp.dll
+/Users/jnuckley/Projects/cSharp/bin/Debug/net6.0/ref/cSharp.dll
+/Users/jnuckley/Projects/cSharp/bin/Debug/net6.0/cSharp.pdb
+/Users/jnuckley/Projects/cSharp/obj/Debug/net6.0/cSharp.dll
+/Users/jnuckley/Projects/cSharp/obj/Debug/net6.0/ref/cSharp.dll
+/Users/jnuckley/Projects/cSharp/obj/Debug/net6.0/cSharp.pdb
+/Users/jnuckley/Projects/cSharp/obj/Debug/net6.0/cSharp.genruntimeconfig.cache
