@@ -17,11 +17,11 @@ namespace NumberGuesser
         }
     }
 }```
-
+````
 ### Basics
 - classes are used to create objects from
 - static void main is the entry point of the application and void simply means that it doesn't return anything and static means we don't have instances of it, we are referring just to the function itself
-````
+
 
 - WriteLine pops the the message on its own line and Write just puts it on the same line as the previous.
 
